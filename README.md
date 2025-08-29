@@ -69,7 +69,7 @@ Currently supports both **Command-Line Interface (CLI)** and a **Streamlit Web A
 This project can be further enhanced by incorporating features like:
 
 - **Custom Slide Aesthetics**
-  Themes, colors, fonts, and corporate branding.
+  - Themes, colors, fonts, and corporate branding.
 
 - **User-Controlled Parameters**
   - Number of slides.
@@ -81,7 +81,7 @@ This project can be further enhanced by incorporating features like:
   - Integration with image generation models (e.g., DALL·E, Stable Diffusion).
 
 - **Collaboration Features**
-  Export to Google Slides.
+  - Export to Google Slides.
 
 - **Enterprise Features**
-  Upload research papers, articles, or reports → get summarized presentations.
+  - Upload research papers, articles, or reports → get summarized presentations.
