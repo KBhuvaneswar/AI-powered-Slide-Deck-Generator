@@ -7,7 +7,7 @@ You have two sources of information:
 2. Your own general knowledge as a large language model. 
 
 Task: Combine both sources to create a 7-slide outline. 
-Each slide should have a clear title and 5 concise bullet points. 
+Each slide should have a clear title and 5 bullet points. 
 Ensure the outline is accurate, up-to-date, and engaging.
 Each slide except Slide 1 (Title slide) must be structured as:
 - {{title}}: a concise slide title
